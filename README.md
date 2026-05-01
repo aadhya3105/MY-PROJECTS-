@@ -1,5 +1,5 @@
 # ⚡ ECE Engineering AI Assistant
-A specialized AI agent built with **LangGraph**, **Groq**, and **Streamlit** to help first-year Electrical and Computer Engineering students at ABES with:
+A specialized AI agent built with **LangGraph**, **Groq**, and **Streamlit** to help first-year Electrical and Computer Engineering students with:
 - **Thevenin & Norton Theorem** solving.
 - **Symbolic Calculus** (Differentiation & Integration).
 - **General Coursework** assistance.
